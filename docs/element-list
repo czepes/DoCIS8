@@ -1,0 +1,6 @@
+ru.sfu.boot
+ru.sfu.boot.controller
+ru.sfu.boot.entity
+ru.sfu.boot.repository
+ru.sfu.boot.rest
+ru.sfu.boot.service
