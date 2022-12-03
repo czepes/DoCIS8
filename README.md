@@ -19,9 +19,9 @@ Links:
 Autoconfigured with help of Spring Boot.
 
 Can be manually installed using [`data.sql`](src/main/resources/data.sql) and 
-[`schema.sql`](src/main/resources/schema.sql)to create table and fill it with test values.
+[`schema.sql`](src/main/resources/schema.sql) to create table and fill it with test values.
 
-Configure Database connection in [`application.properties`](src/main/resources/application.properties).
+Configure `URL`, `username` and `password` in [`application.properties`](src/main/resources/application.properties).
 
 ### Server
 
